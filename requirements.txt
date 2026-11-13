@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+pandas>=2,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+yfinance>=0.2.60,<1
